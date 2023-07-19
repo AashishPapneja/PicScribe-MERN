@@ -29,7 +29,7 @@ const LoginPage = () => {
           Welcome to PicScribe.
         </Typography>
         <Typography fontWeight="500" variant="h6" sx={{ mb: "1.5rem" }}>
-          Unleash Your Creativity on PicScribe.
+          Unleash Your Creativity on PicScribe😎.
         </Typography>
         
         <Form />
